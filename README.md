@@ -3,6 +3,9 @@
 **AADS**- This is a system for approving documents through three responders. Each responder must approve the document before it can be sent to the specific receiver online.
 While waiting for approval, you can check the status to see if it was approved or denied by a responder, and also see the reason if it was denied.
 
+
+**AADS** (Automated Approval and Document System) is a modern solution designed to streamline document tracking and approval processes within organizations. In today’s fast-paced digital environment, managing documents efficiently is essential to ensure accuracy, accountability, and timely decision-making.
+
 ___________________________________________________________
 
 # **Developer (BSCS-1B)**

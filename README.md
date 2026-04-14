@@ -3,7 +3,8 @@
 **AADS**- This is a system for approving documents through three responders. Each responder must approve the document before it can be sent to the specific receiver online.
 While waiting for approval, you can check the status to see if it was approved or denied by a responder, and also see the reason if it was denied.
 
-____________________________________________________________
+___________________________________________________________
+
 # **Developer (BSCS-1B)**
 
 Alcoy, Mirht Ruther N.
@@ -28,6 +29,35 @@ ____________________________________________________________
 **Data Management:** Securely store and organize all documents in one place.
 
 ______________________________________________________________
+
+
+# **Prerequisites**
+
+Befor running the project, ensure you have the following installed.
+
+**Python 3.8+** (python --version)
+
+**Pip** (Python package manager)
+
+**Code Editor** (VS Code recommended)
+
+**Modern Web Browser** (Chrome, Edge, or Firefox)
+
+________________________________________________________________
+# **Installation & Setup**
+
+1. Clone or Create the Project Folder Place the billing system folder in your desired directory.
+
+2. Install Flask Open your terminal and run
+
+       pip install flask
+
+3. Save the code: Save the Python code as app.py in your folder.
+
+4. Run the Application: python app.py The system will be live at http://127.0.0.1:5000
+
+_________________________________________________________________
+
 
 # **Usage Guide**
 

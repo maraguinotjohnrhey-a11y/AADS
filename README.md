@@ -61,70 +61,127 @@ _________________________________________________________________
 
 # **Usage Guide**
 
-The Document Tracking and Approval System is used to manage, monitor, and process documents across different offices or departments. It ensures that documents are properly tracked, reviewed, approved, and stored in an organized and efficient way.
+The Document Tracking and Approval System is used to manage, monitor, and process documents across different offices or departments.It ensures that documents are properly tracked, reviewed, approved, and stored in an organized and efficient way.
+
 
 
 👤 **1. User Login**
-The system begins when the authorized user (Admin or Staff) logs in.
+
+The system begins when the authorized user 
+
+(Admin or Staff) logs in.
 Only registered users can access the system.
+
 Each user has specific roles (e.g., Admin, Office Staff).
 
 
+
+
 📤**2. Document Submission**
-The user uploads or creates a document in the system.
+
+The user uploads or creates a document in the 
+system.
+
 Required details are entered, such as:
+
 Document Title
+
 Description
+
 Date Submitted
+
 Destination Office
 
 
+
+
 🔍 **3. Document Tracking**
+
 Each document is assigned a tracking number.
-Users can monitor the document status in real-time:
+
+Users can monitor the document status in real-
+
+time:
+
 Pending
+
 Under Review
+
 Approved
+
 Rejected
 
 
 
+
+
 🏢 **4. Routing to Offices**
-The document is automatically forwarded to the assigned office.
+
+The document is automatically forwarded to the 
+assigned office.
+
 Example flow:
+
 Office 1 → Office 2 → Office 3
+
 Each office reviews the document before passing it to the next.
 
 
 
+
+
 ✅ **5. Approval Process**
+
 Each office can:
+
 Approve the document
+
 Reject the document
+
 Request revisions
-If approved, the document moves to the next office automatically.
+
+If approved, the document moves to the next 
+
+office automatically.
+
+
 
 
 
 **6. Notifications**
+
 The system notifies users about updates:
+
 Approval status
+
 Rejection messages
+
 Pending actions
 
 
 
+
+
 📁 **7. Document Storage**
+
 Approved documents are stored in the system database.
+
 Users can retrieve past documents anytime.
 
 
 
+
+
 📊**8. Admin Monitoring**
+
 The Admin can:
+
 Track all documents
+
 View system logs
+
 Manage users
+
 Generate reports
 
 
